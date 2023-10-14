@@ -8,28 +8,28 @@ const data = [
     avatar: AVTR1,
     name: "Tina snow",
     review:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate soluta veritatis id architecto nesciunt dolores ipsam sed tempora rerum, corporis enim consequuntur expedita quam alias inventore, at debitis quos quis!",
+      "Working with Deep was an absolute pleasure. Their expertise and attention to detail were evident throughout the project, resulting in a solution that exceeded our expectations.",
   },
   {
     id: 2,
     avatar: AVTR2,
     name: "Shatta wale",
     review:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate soluta veritatis id architecto nesciunt dolores ipsam sed tempora rerum, corporis enim consequuntur expedita quam alias inventore, at debitis quos quis!",
+      "I was thoroughly impressed with the work delivered by this company. Their ability to understand our requirements and translate them into an exceptional design was truly commendable. I look forward to future collaborations.",
   },
   {
     id: 3,
     avatar: AVTR3,
     name: "Kwame Despite",
     review:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate soluta veritatis id architecto nesciunt dolores ipsam sed tempora rerum, corporis enim consequuntur expedita quam alias inventore, at debitis quos quis!",
+      "It was a pleasure to work with Deep. Their strong communication and problem-solving skills ensured that the project was completed efficiently and to the highest standard. I highly recommend their services.",
   },
   {
     id: 4,
     avatar: AVTR4,
     name: "John Doe",
     review:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate soluta veritatis id architecto nesciunt dolores ipsam sed tempora rerum, corporis enim consequuntur expedita quam alias inventore, at debitis quos quis!",
+      "The expertise and dedication displayed by this company were instrumental in the success of our project.",
   },
 ];
 

@@ -22,7 +22,7 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>2+ Years Working</small>
             </article>
 
             <article className="about__card">
@@ -39,10 +39,14 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa quas
-            voluptas, pariatur aperiam, maiores itaque iste reiciendis facere,
-            veniam excepturi asperiores dolores aspernatur molestiae velit ex
-            eum molestias culpa aliquid.
+            Hey There I am Deep soni. I am a passionate and dedicated Full stack
+            Developer. Currently I am doing Freelancing and open-source
+            contribution.I am committed to continuous learning and growth,
+            constantly exploring new skills.This dedication to learning allows
+            me to bring fresh perspectives.I am eager to connect with fellow
+            professionals and potential collaborators.I am excited to continue
+            my journey in this field and contribute to its growth and
+            development.
           </p>
 
           <a href="#contact" className="btn btn-primary">

@@ -16,84 +16,120 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Showcasing user-centered design expertise.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Our design process prioritizes user needs and feedback.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Our clients have experienced tangible business growth through
+                our UI/UX design.
+              </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>We leverage cutting-edge design tools and technologies</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                With extensive experience across various industries, we
+                understand the unique challenges
+              </p>
             </li>
           </ul>
         </article>
 
         <article className="service">
           <div className="service__head">
-            <h3>Web Development</h3>
+            <h3>Frontend Web Development</h3>
           </div>
 
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Our frontend development services encompass creating responsive
+                websites
+              </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Explore our collection of successful frontend development
+                projects,
+              </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>We provide clean, efficience and cross-platform code</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                We harness a wide array of cutting-edge technologies and
+                frameworks,
+              </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                We understand the unique demands and nuances of each industry.
+              </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Reach out to us today to discuss your project requirements and
+                let us create a dynamic, responsive.
+              </p>
             </li>
           </ul>
         </article>
         <article className="service">
           <div className="service__head">
-            <h3>Content Creation</h3>
+            <h3>Backend Development</h3>
           </div>
 
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Our backend development team is dedicated to building robust and
+                scalable digital infrastructures.
+              </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Explore our portfolio of successful backend development
+                projects.
+              </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Our Expertise development process emphasizes clean, maintainable
+                code.
+              </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Our commitment to innovation drives us to explore the latest
+                trends and advancements in backend development.
+              </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Looking to build a powerful and scalable backend infrastructure
+                for your digital applications? Contact us today to discuss your
+                project.
+              </p>
             </li>
           </ul>
         </article>
