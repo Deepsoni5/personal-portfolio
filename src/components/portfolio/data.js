@@ -1,23 +1,23 @@
-import IMG1 from "../../assets/portfolio1.jpg";
-import IMG2 from "../../assets/portfolio2.jpg";
-import IMG3 from "../../assets/portfolio3.jpg";
-import IMG4 from "../../assets/portfolio4.jpg";
-import IMG5 from "../../assets/portfolio5.png";
-import IMG6 from "../../assets/portfolio6.jpg";
+import IMG1 from "../../assets/spotify.png";
+import IMG2 from "../../assets/stack.png";
+import IMG3 from "../../assets/amazon.png";
+import IMG4 from "../../assets/wp.png";
+import IMG5 from "../../assets/yt.jpg";
+import IMG6 from "../../assets/portfolio2.jpg";
 const data = [
   {
     id: 1,
     image: IMG1,
     title: "Spotify Clone",
     github: "https://github.com/Deepsoni5/spotify-clone-1",
-    demo: "https://github.com/Deepsoni5/spotify-clone-1",
+    demo: "https://spotify-clone-1-orpin.vercel.app/",
   },
   {
     id: 2,
     image: IMG2,
-    title: "Instagram Clone",
-    github: "https://github.com/Deepsoni5/instagram-clone",
-    demo: "http://pictogrambydeep.000webhostapp.com/",
+    title: "Stack Overflow Clone",
+    github: "https://github.com/Deepsoni5/stack-overflow-next",
+    demo: "https://stack-overflow-next-bice.vercel.app/",
   },
   {
     id: 3,
@@ -29,16 +29,16 @@ const data = [
   {
     id: 4,
     image: IMG4,
-    title: "File Sharing App",
-    github: "https://github.com/Deepsoni5/file-sharing-backend",
-    demo: "https://github.com/Deepsoni5/file-sharing-frontend",
+    title: "Whatsapp clone",
+    github: "https://github.com/Deepsoni5/whatsapp-frontend/tree/main",
+    demo: "https://github.com/Deepsoni5/wp-clone",
   },
   {
     id: 5,
     image: IMG5,
-    title: "Blog App",
-    github: "https://github.com/Deepsoni5/blog-app-backend",
-    demo: "https://github.com/Deepsoni5/file-sharing-frontend",
+    title: "Youtube Clone",
+    github: "https://github.com/Deepsoni5/youtube",
+    demo: "https://youtube-eight-ruby.vercel.app/",
   },
   {
     id: 6,
