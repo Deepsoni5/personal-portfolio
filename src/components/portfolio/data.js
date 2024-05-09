@@ -1,6 +1,6 @@
 import IMG1 from "../../assets/spotify.png";
 import IMG2 from "../../assets/stack.png";
-import IMG3 from "../../assets/amazon.png";
+import IMG3 from "../../assets/amzon.png";
 import IMG4 from "../../assets/wp.png";
 import IMG5 from "../../assets/yt.jpg";
 import IMG6 from "../../assets/portfolio2.jpg";
